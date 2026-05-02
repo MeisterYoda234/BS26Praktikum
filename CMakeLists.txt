@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 4.2)
+cmake_minimum_required(VERSION 3.10.2)
 project(BS26Praktikum C)
 
 set(CMAKE_C_STANDARD 99)

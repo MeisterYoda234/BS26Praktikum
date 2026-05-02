@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Localhost (93ac09ee-c68c-46f3-a1bb-b5e94485a64d)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Localhost (b1534376-953b-4022-8b7c-08267ccf526b)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.uuOYqelizK/BS26Praktikum" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-remote" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-localhost" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Remote (c4755c1a-b72f-41b6-a98e-2683269aefd1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.yliVPFWgfg/BS26Praktikum" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-remote" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-localhost" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
