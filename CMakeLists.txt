@@ -3,4 +3,8 @@ project(BS26Praktikum C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(BS26Praktikum main.c)
+add_executable(BS26Praktikum main.c
+        keyValStore.c
+        keyValStore.h
+        sub.c
+        sub.h)
