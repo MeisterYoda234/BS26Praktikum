@@ -8,4 +8,6 @@ struct keyValStore {
 
 keyValStore *createKeyStore(int count);
 
+void createSocket();
+
 #endif //BS26PRAKTIKUM_SUB_H

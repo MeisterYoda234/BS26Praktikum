@@ -2,37 +2,34 @@
 <project version="4">
   <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
-      <paths name="Localhost (93ac09ee-c68c-46f3-a1bb-b5e94485a64d)">
+      <paths name="Lokal (97fdd190-c7e5-4898-b33a-134cf2db912a)">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="Localhost (b1534376-953b-4022-8b7c-08267ccf526b)">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/tmp/tmp.uuOYqelizK/BS26Praktikum" local="$PROJECT_DIR$" />
+            <mapping deploy="/tmp/tmp.nHaFYh8CAP/BS26Praktikum" local="$PROJECT_DIR$" />
           </mappings>
           <excludedPaths>
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-remote" />
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-localhost" />
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-localhost" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-httpslocalhost" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-localhost" />
+            <excludedPath local="true" path="$PROJECT_DIR$/../../../../../../home/lingn/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-remote" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-remote" />
           </excludedPaths>
         </serverdata>
       </paths>
-      <paths name="Remote (c4755c1a-b72f-41b6-a98e-2683269aefd1)">
+      <paths name="Remote (2e2a40e0-a04a-4c70-844a-48d245b35d30)">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/tmp.yliVPFWgfg/BS26Praktikum" local="$PROJECT_DIR$" />
+            <mapping deploy="/tmp/tmp.DykkPonDPg/BS26Praktikum" local="$PROJECT_DIR$" />
           </mappings>
           <excludedPaths>
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-remote" />
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-localhost" />
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-remote" />
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-localhost" />
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-localhost" />
+            <excludedPath local="true" path="$PROJECT_DIR$/../../../../../../home/lingn/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-remote" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-remote" />
           </excludedPaths>
         </serverdata>
       </paths>

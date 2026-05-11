@@ -7,4 +7,5 @@ add_executable(BS26Praktikum main.c
         keyValStore.c
         keyValStore.h
         sub.c
-        sub.h)
+        sub.h
+        main.h)

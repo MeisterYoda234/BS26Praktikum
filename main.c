@@ -3,6 +3,7 @@
 #include "sub.h"
 
 int main(void) {
+    /*
     // Abfrangen einer Key/Value Anzahl und erstellen dieser
     printf("Wie viele Key/Value Stores sollen angelegt werden?");
     int count;
@@ -17,5 +18,10 @@ int main(void) {
                store[i].value);
     }
 
+    */
+    createSocket();
+
     return 0;
+
+
 }
